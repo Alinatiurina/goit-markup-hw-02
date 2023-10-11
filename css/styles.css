@@ -2,6 +2,7 @@
 body {
   background-color: #fff;
   font-family: "Roboto", sans-serif;
+  color: #434455;
 }
 a {
   text-decoration: none;
@@ -45,6 +46,7 @@ button {cursor: pointer;}
 .nav-link:focus {
   color: #404bbf;
 }
+.adress-item {font-style: normal}
 
 .adress-link {
   color: #434455;
@@ -80,7 +82,7 @@ button {cursor: pointer;}
   letter-spacing: 0.04em;
 }
 .hero-btn:hover {
-  background-color: #404bbf;
+  background-color: #404BBF
 }
 /* Advantages */
 .advantages {
