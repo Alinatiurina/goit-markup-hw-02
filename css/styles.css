@@ -60,7 +60,7 @@ button {cursor: pointer;}
 .adress-link:focus {
   color: #404bbf;
 }
-
+.page-adress {font-style: normal;}
 /* Hero section */
 .hero-section {
   background-color: #2e2f42;
@@ -81,7 +81,9 @@ button {cursor: pointer;}
   line-height: 1.5;
   letter-spacing: 0.04em;
 }
-.hero-btn:hover {
+.hero-btn:hover
+ hero-btn:focus
+ {
   background-color: #404BBF
 }
 /* Advantages */
